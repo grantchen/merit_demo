@@ -20,7 +20,7 @@ test:
   database: dummy_test
   pool: 5
   username: root
-  password: oktest1234
+  password: 1234
   socket: /var/run/mysqld/mysqld.sock
   timeout: 9999999
 
@@ -31,6 +31,6 @@ production:
   database: dummy_pro
   pool: 5
   username: root
-  password: oktest1234
+  password: 1234
   socket: /var/run/mysqld/mysqld.sock
   timeout: 9999999
